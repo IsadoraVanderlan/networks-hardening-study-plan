@@ -19,14 +19,14 @@
 
 | Aula no Plano | Tema do Módulo                                         | Vídeo Exato / Canal                                                                                             | Status |           Anotações           |
 | :-----------: | :----------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- | :----: | :---------------------------: |
-|    **01**     | Modelo OSI vs. TCP/IP na Prática (Camadas L3, L4 e L7) | [Modelo OSI - Aula 26](https://www.youtube.com/watch?v=jwriNhcN5aU) (Hardware Redes Brasil)                     |   ❌   | [Ver Resumo](./Resumos/01.md) |
-|    **02**     | Principais Protocolos e Portas Padrão                  | [Principais Protocolos e Portas - Aula 25](https://www.youtube.com/watch?v=4ccAK-t7Nes) (Hardware Redes Brasil) |   ❌   | [Ver Resumo](./Resumos/02.md) |
-|    **03**     | Endereçamento IP e Classes de Rede                     | [Classes de Endereçamento IP - Aula 02](https://www.youtube.com/watch?v=_GcR9UHNCu8) (Hardware Redes Brasil)    |   ❌   | [Ver Resumo](./Resumos/03.md) |
-|    **04**     | Cálculo de Sub-redes e Notação CIDR                    | [Cálculo de Sub-redes - Aula #12](https://www.youtube.com/watch?v=PHV5eL8n8bQ) (Curso em Vídeo)                 |   ❌   | [Ver Resumo](./Resumos/04.md) |
-|    **05**     | Captura e Inspeção de Pacotes na Prática               | [Como Utilizar o Wireshark](http://www.youtube.com/watch?v=7NzEMeLi7A0) (Diolinux)                              |   ❌   | [Ver Resumo](./Resumos/05.md) |
-|    **06**     | Análise de Tráfego em Linha de Comando (`tcpdump`)     | [Análise de Tráfego com tcpdump](http://www.youtube.com/watch?v=gK3gl3Vh8L0) (Aécio Pires)                      |   ❌   | [Ver Resumo](./Resumos/06.md) |
-|    **07**     | Servidor Web e Proxy Reverso com Nginx                 | [O que é Nginx? Proxy Reverso](http://www.youtube.com/watch?v=Kef9GF7tllo) (Full Cycle)                         |   ❌   | [Ver Resumo](./Resumos/07.md) |
-|    **08**     | Hardening Web, Proteção e Análise de Logs              | [Proxy reverso NGINX e Hardening Web](http://www.youtube.com/watch?v=6pXp8NRGc18) (Guia Anônima)                |   ❌   | [Ver Resumo](./Resumos/08.md) |
+|    **01**     | Modelo OSI vs. TCP/IP na Prática (Camadas L3, L4 e L7) | [Modelo OSI - Aula 26](https://www.youtube.com/watch?v=mMtZC5snPLQ) (Hardware Redes Brasil)                     |   ⏳   | [Ver Resumo](./Resumos/01.md) |
+|    **02**     | Principais Protocolos e Portas Padrão                  | [Principais Protocolos e Portas - Aula 25](https://www.youtube.com/watch?v=DJ6e6HoJ5kI) (Hardware Redes Brasil) |   ❌   | [Ver Resumo](./Resumos/02.md) |
+|    **03**     | Endereçamento IP e Classes de Rede                     | [Classes de Endereçamento IP - Aula 02](https://www.youtube.com/watch?v=kddmXxCgca8) (Hardware Redes Brasil)    |   ❌   | [Ver Resumo](./Resumos/03.md) |
+|    **04**     | Cálculo de Sub-redes e Notação CIDR                    | [Cálculo de Sub-redes - Aula #12](https://www.youtube.com/watch?v=FXGBQOf2lSU&t=188s) (Hardware Redes Brasil)   |   ❌   | [Ver Resumo](./Resumos/04.md) |
+|    **05**     | Captura e Inspeção de Pacotes na Prática               | [Como Utilizar o Wireshark](https://www.youtube.com/watch?v=TYk6ejP7dmI) (Lucas Teixeira)                       |   ❌   | [Ver Resumo](./Resumos/05.md) |
+|    **06**     | Análise de Tráfego em Linha de Comando (`tcpdump`)     | [Análise de Tráfego com tcpdump](https://www.youtube.com/watch?v=4ccAK-t7Nes&t=9s) (Turma de TI)                |   ❌   | [Ver Resumo](./Resumos/06.md) |
+|    **07**     | Servidor Web e Proxy Reverso com Nginx                 | [O que é Nginx? Proxy Reverso](https://www.youtube.com/watch?v=Kef9GF7tllo) (Wesley Milan)                      |   ❌   | [Ver Resumo](./Resumos/07.md) |
+|    **08**     | Hardening Web, Proteção e Análise de Logs              | [Proxy reverso NGINX e Hardening Web](https://www.youtube.com/watch?v=Kef9GF7tllo&t=1s) (Wesley Milan)          |   ❌   | [Ver Resumo](./Resumos/08.md) |
 
 ---
 
