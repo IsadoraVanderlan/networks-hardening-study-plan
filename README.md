@@ -1,11 +1,36 @@
 # 🌐 Redes de Computadores & Hardening - Plano de Estudos
 
-## 🎯 Objetivos
+# 🎯 Objetivo ao concluir o módulo
 
-- **Compreenda o funcionamento dos modelos OSI e TCP/IP**, mapeando o fluxo de dados das camadas L3, L4 e L7 até a aplicação.
-- **Domine o endereçamento IPv4 e notação CIDR**, compreendendo sub-redes e o roteamento de redes privadas (RFC 1918).
-- **Realize análise e inspeção de tráfego** em tempo real utilizando ferramentas CLI (`tcpdump`) e GUI (**Wireshark**).
-- **Implemente servidores web seguros com Nginx**, configurando Proxy Reverso, análise de logs (`access`/`error`) e técnicas de **Hardening** para redução da superfície de ataque.
+Ao finalizar este módulo, devo ser capaz de:
+
+- [ ] Explicar o modelo OSI e TCP/IP.
+- [ ] Diferenciar L2, L3, L4 e L7.
+- [ ] Explicar como um pacote trafega pela rede.
+- [ ] Trabalhar com IPv4 e CIDR.
+- [ ] Calcular sub-redes.
+- [ ] Diferenciar IP público e privado.
+- [ ] Entender gateways e tabelas de roteamento.
+- [ ] Explicar TCP e UDP.
+- [ ] Explicar o TCP 3-Way Handshake.
+- [ ] Interpretar SYN, ACK, FIN e RST.
+- [ ] Entender DNS, DHCP e ICMP.
+- [ ] Entender HTTP e HTTPS.
+- [ ] Entender NAT/PAT.
+- [ ] Entender regras de firewall e ACL.
+- [ ] Diferenciar Stateful e Stateless.
+- [ ] Entender os fundamentos de VPN.
+- [ ] Entender TLS e certificados digitais.
+- [ ] Entender Reverse Proxy e Load Balancer.
+- [ ] Utilizar Wireshark para analisar tráfego.
+- [ ] Utilizar tcpdump para capturar tráfego.
+- [ ] Utilizar `ip`, `ss`, `dig`, `curl`, `nc` e `openssl`.
+- [ ] Identificar problemas de DNS.
+- [ ] Identificar problemas de routing.
+- [ ] Identificar problemas de firewall.
+- [ ] Identificar problemas de TCP.
+- [ ] Identificar problemas de HTTP/TLS.
+- [ ] Investigar uma comunicação de rede de ponta a ponta.
 
 ---
 
@@ -123,40 +148,6 @@
 | :-----------: | :------------------------------------------ | :------------------ | :----: | :---------------------------: |
 |    **44**     | Arquitetura de uma Rede Segura              | A definir           |   ❌   | [Ver Resumo](./Resumos/44.md) |
 |    **45**     | Investigação de Tráfego e Incidente de Rede | A definir           |   ❌   | [Ver Resumo](./Resumos/45.md) |
-
----
-
-# 🎯 Objetivo ao concluir o módulo
-
-Ao finalizar este módulo, devo ser capaz de:
-
-- [ ] Explicar o modelo OSI e TCP/IP.
-- [ ] Diferenciar L2, L3, L4 e L7.
-- [ ] Explicar como um pacote trafega pela rede.
-- [ ] Trabalhar com IPv4 e CIDR.
-- [ ] Calcular sub-redes.
-- [ ] Diferenciar IP público e privado.
-- [ ] Entender gateways e tabelas de roteamento.
-- [ ] Explicar TCP e UDP.
-- [ ] Explicar o TCP 3-Way Handshake.
-- [ ] Interpretar SYN, ACK, FIN e RST.
-- [ ] Entender DNS, DHCP e ICMP.
-- [ ] Entender HTTP e HTTPS.
-- [ ] Entender NAT/PAT.
-- [ ] Entender regras de firewall e ACL.
-- [ ] Diferenciar Stateful e Stateless.
-- [ ] Entender os fundamentos de VPN.
-- [ ] Entender TLS e certificados digitais.
-- [ ] Entender Reverse Proxy e Load Balancer.
-- [ ] Utilizar Wireshark para analisar tráfego.
-- [ ] Utilizar tcpdump para capturar tráfego.
-- [ ] Utilizar `ip`, `ss`, `dig`, `curl`, `nc` e `openssl`.
-- [ ] Identificar problemas de DNS.
-- [ ] Identificar problemas de routing.
-- [ ] Identificar problemas de firewall.
-- [ ] Identificar problemas de TCP.
-- [ ] Identificar problemas de HTTP/TLS.
-- [ ] Investigar uma comunicação de rede de ponta a ponta.
 
 ---
 
