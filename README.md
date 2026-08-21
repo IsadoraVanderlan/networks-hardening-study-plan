@@ -126,14 +126,22 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 ---
 
+### 📌 Legenda de Status
+
+- ❌ **Não Iniciado**
+- ⏳ **Em Andamento**
+- ✅ **Concluído**
+
+---
+
 # 📚 Módulo 1 — Fundamentos de Redes
 
 > **Objetivo:** compreender os fundamentos necessários para interpretar uma comunicação de rede e identificar o papel de cada camada.
 
 |  Aula  | Tema                               | Vídeo Exato / Canal                                                                         | Status |           Anotações           |
 | :----: | :--------------------------------- | :------------------------------------------------------------------------------------------ | :----: | :---------------------------: |
-| **01** | Modelo OSI vs. TCP/IP na Prática   | [Modelo OSI - Aula 26](https://www.youtube.com/watch?v=mMtZC5snPLQ) — Hardware Redes Brasil |   ⏳   | [Ver Resumo](./Resumos/01.md) |
-| **02** | Camadas L2, L3, L4 e L7 na Prática | A definir                                                                                   |   ❌   | [Ver Resumo](./Resumos/02.md) |
+| **01** | Modelo OSI vs. TCP/IP na Prática   | [Modelo OSI - Aula 26](https://www.youtube.com/watch?v=mMtZC5snPLQ) — Hardware Redes Brasil |   ✅   | [Ver Resumo](./Resumos/01.md) |
+| **02** | Camadas L2, L3, L4 e L7 na Prática | A definir                                                                                   |   ⏳   | [Ver Resumo](./Resumos/02.md) |
 | **03** | Encapsulamento e Desencapsulamento | A definir                                                                                   |   ❌   | [Ver Resumo](./Resumos/03.md) |
 | **04** | Ethernet, MAC Address e ARP        | A definir                                                                                   |   ❌   | [Ver Resumo](./Resumos/04.md) |
 
