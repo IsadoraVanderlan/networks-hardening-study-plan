@@ -47,12 +47,12 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 > **Objetivo:** compreender os fundamentos necessários para interpretar uma comunicação de rede e identificar o papel de cada camada.
 
-|  Aula  | Tema                               | Vídeo Exato / Canal                                                                                                                | Status |           Anotações           |
-| :----: | :--------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- | :----: | :---------------------------: |
-| **01** | Modelo OSI vs. TCP/IP na Prática   | [Curso de Modelo OSI](https://www.youtube.com/watch?v=3gpo0N04OY0&list=PLAp37wMSBouCyqVtvzLm5JS4dorY-q4uZ) — Hardware Redes Brasil |   ✅   | [Ver Resumo](./Resumos/01.md) |
-| **02** | Camadas L2, L3, L4 e L7            | [Professora Nattane](https://www.youtube.com/watch?v=e7pzTuqurYo)                                                                  |   ✅   | [Ver Resumo](./Resumos/02.md) |
-| **03** | Encapsulamento e Desencapsulamento | [Professora Nattane](https://www.youtube.com/watch?v=rsl_-ndhm3s)                                                                  |   ✅   | [Ver Resumo](./Resumos/03.md) |
-| **04** | Ethernet, MAC Address e ARP        | [Ciro Jr](https://www.youtube.com/watch?v=rP6Jj7EkPCU)                                                                             |   ✅   | [Ver Resumo](./Resumos/04.md) |
+|  Aula  | Tema                               | Vídeo Exato / Canal                                                                                          | Status |           Anotações           |
+| :----: | :--------------------------------- | :----------------------------------------------------------------------------------------------------------- | :----: | :---------------------------: |
+| **01** | Modelo OSI vs. TCP/IP na Prática   | [Hardware Redes Brasil](https://www.youtube.com/watch?v=3gpo0N04OY0&list=PLAp37wMSBouCyqVtvzLm5JS4dorY-q4uZ) |   ✅   | [Ver Resumo](./Resumos/01.md) |
+| **02** | Camadas L2, L3, L4 e L7            | [Professora Nattane](https://www.youtube.com/watch?v=e7pzTuqurYo)                                            |   ✅   | [Ver Resumo](./Resumos/02.md) |
+| **03** | Encapsulamento e Desencapsulamento | [Professora Nattane](https://www.youtube.com/watch?v=rsl_-ndhm3s)                                            |   ✅   | [Ver Resumo](./Resumos/03.md) |
+| **04** | Ethernet, MAC Address e ARP        | [Ciro Jr](https://www.youtube.com/watch?v=rP6Jj7EkPCU)                                                       |   ✅   | [Ver Resumo](./Resumos/04.md) |
 
 ---
 
