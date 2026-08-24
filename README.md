@@ -35,14 +35,6 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 ---
 
-### 📌 Legenda de Status
-
-- ❌ **Não Iniciado**
-- ⏳ **Em Andamento**
-- ✅ **Concluído**
-
----
-
 # 📚 Módulo 1 — Fundamentos de Redes
 
 > **Objetivo:** compreender os fundamentos necessários para interpretar uma comunicação de rede e identificar o papel de cada camada.
@@ -62,8 +54,8 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 |  Aula  | Tema                              | Vídeo Exato / Canal                                                                                           | Status |           Anotações           |
 | :----: | :-------------------------------- | :------------------------------------------------------------------------------------------------------------ | :----: | :---------------------------: |
-| **05** | IPv4 e Endereçamento IP           | [Classes de Endereçamento IP - Aula 02](https://www.youtube.com/watch?v=kddmXxCgca8) — Hardware Redes Brasil  |   ⏳   | [Ver Resumo](./Resumos/05.md) |
-| **06** | IP Público vs. IP Privado         | A definir                                                                                                     |   ❌   | [Ver Resumo](./Resumos/06.md) |
+| **05** | IPv4 e Endereçamento IP           | [Professora Nattane](https://www.youtube.com/watch?v=gMzka2WM80k)                                             |   ⏳   | [Ver Resumo](./Resumos/05.md) |
+| **06** | IP Público vs. IP Privado         | [Instrutor Henrique Morais](https://www.youtube.com/watch?v=vKsCp7n2q08)                                      |   ⏳   | [Ver Resumo](./Resumos/06.md) |
 | **07** | CIDR e Notação de Redes           | [Cálculo de Sub-redes - Aula #12](https://www.youtube.com/watch?v=FXGBQOf2lSU&t=188s) — Hardware Redes Brasil |   ❌   | [Ver Resumo](./Resumos/07.md) |
 | **08** | Subnetting e Cálculo de Sub-redes | [Cálculo de Sub-redes - Aula #12](https://www.youtube.com/watch?v=FXGBQOf2lSU&t=188s) — Hardware Redes Brasil |   ❌   | [Ver Resumo](./Resumos/08.md) |
 | **09** | Default Gateway                   | A definir                                                                                                     |   ❌   | [Ver Resumo](./Resumos/09.md) |
@@ -328,14 +320,6 @@ O HTTP respondeu?
         ↓
 A aplicação recebeu a requisição?
 ```
-
----
-
-# 🔗 Fontes do Conteúdo
-
-- **Hardware Redes Brasil** — [Curso de Redes de Computadores](https://www.youtube.com/@HardwareRedesBrasil)
-- **Curso em Vídeo** — [Curso de Redes de Computadores](https://www.youtube.com/@CursoemVideo)
-- **Conteúdos Práticos de Apoio:** Diolinux, Aécio Pires, Full Cycle e Guia Anônima.
 
 ---
 
