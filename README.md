@@ -12,97 +12,6 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 ---
 
-## 🧠 Conhecimentos ao concluir o curso
-
-### Fundamentos de Redes
-
-- [ ] Explicar o modelo OSI.
-- [ ] Explicar o modelo TCP/IP.
-- [ ] Relacionar OSI e TCP/IP.
-- [ ] Diferenciar L2, L3, L4 e L7.
-- [ ] Explicar encapsulamento e desencapsulamento.
-- [ ] Explicar como uma comunicação trafega pela rede.
-- [ ] Entender Ethernet, MAC Address e ARP.
-
-### Endereçamento e Routing
-
-- [ ] Entender IPv4.
-- [ ] Diferenciar IP público e privado.
-- [ ] Entender CIDR.
-- [ ] Calcular sub-redes.
-- [ ] Identificar Network, Host e Broadcast.
-- [ ] Entender Default Gateway.
-- [ ] Entender tabelas de roteamento.
-- [ ] Entender Default Route.
-- [ ] Entender Next Hop.
-- [ ] Ter uma visão geral de IPv6.
-
-### Protocolos
-
-- [ ] Diferenciar TCP e UDP.
-- [ ] Explicar o TCP 3-Way Handshake.
-- [ ] Interpretar SYN, SYN-ACK, ACK, FIN e RST.
-- [ ] Entender portas TCP/UDP.
-- [ ] Entender portas efêmeras.
-- [ ] Entender DNS.
-- [ ] Entender DHCP.
-- [ ] Entender ICMP.
-- [ ] Entender Ping e Traceroute.
-- [ ] Entender HTTP e HTTPS.
-
-### Network Security
-
-- [ ] Entender NAT e PAT.
-- [ ] Entender SNAT e DNAT.
-- [ ] Entender os fundamentos de Firewall.
-- [ ] Diferenciar Stateful e Stateless Firewall.
-- [ ] Entender ACL.
-- [ ] Entender os fundamentos de VPN.
-- [ ] Entender segmentação de rede.
-- [ ] Entender controle de tráfego entre diferentes redes.
-
-### TLS e Segurança Web
-
-- [ ] Explicar o funcionamento básico do TLS.
-- [ ] Entender certificados digitais.
-- [ ] Entender Certificate Authority (CA).
-- [ ] Entender Certificate Chain.
-- [ ] Identificar problemas básicos de TLS.
-- [ ] Entender Reverse Proxy.
-- [ ] Diferenciar Load Balancer L4 e L7.
-- [ ] Entender o papel do Nginx em uma arquitetura web.
-- [ ] Aplicar conceitos básicos de hardening web.
-
-### Análise e Troubleshooting
-
-- [ ] Utilizar Wireshark para analisar tráfego.
-- [ ] Utilizar `tcpdump` para capturar pacotes.
-- [ ] Utilizar `ip` para diagnóstico de rede.
-- [ ] Utilizar `ss` para analisar conexões.
-- [ ] Utilizar `dig` para investigar DNS.
-- [ ] Utilizar `curl` para testar HTTP/HTTPS.
-- [ ] Utilizar `nc` para testes de conectividade.
-- [ ] Utilizar `openssl s_client` para investigar TLS.
-- [ ] Identificar problemas de DNS.
-- [ ] Identificar problemas de routing.
-- [ ] Identificar problemas de firewall.
-- [ ] Identificar problemas de TCP.
-- [ ] Identificar problemas de HTTP/TLS.
-- [ ] Investigar uma comunicação de rede de ponta a ponta.
-
-### Aplicação em Cloud Security
-
-- [ ] Relacionar conceitos de redes tradicionais com ambientes Cloud.
-- [ ] Entender a importância de segmentação de rede em Cloud.
-- [ ] Entender o papel de Security Groups e Network ACLs em ambientes Cloud.
-- [ ] Entender o conceito de subnets públicas e privadas.
-- [ ] Entender o papel de NAT Gateway em arquiteturas Cloud.
-- [ ] Entender o fluxo de tráfego entre componentes de uma arquitetura.
-- [ ] Utilizar fundamentos de redes durante investigações de segurança.
-- [ ] Analisar uma arquitetura de rede pensando em segurança.
-
----
-
 ## 📌 Legenda de Status
 
 - ❌ **Não Iniciado**
@@ -138,12 +47,13 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 > **Objetivo:** compreender os fundamentos necessários para interpretar uma comunicação de rede e identificar o papel de cada camada.
 
-|  Aula  | Tema                               | Vídeo Exato / Canal                                                                                                                | Status |           Anotações           |
-| :----: | :--------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- | :----: | :---------------------------: |
-| **01** | Modelo OSI vs. TCP/IP na Prática   | [Curso de Modelo OSI](https://www.youtube.com/watch?v=3gpo0N04OY0&list=PLAp37wMSBouCyqVtvzLm5JS4dorY-q4uZ) — Hardware Redes Brasil |   ✅   | [Ver Resumo](./Resumos/01.md) |
-| **02** | Camadas L2, L3, L4 e L7 na Prática | A definir                                                                                                                          |   ✅   | [Ver Resumo](./Resumos/02.md) |
-| **03** | Encapsulamento e Desencapsulamento | A definir                                                                                                                          |   ✅   | [Ver Resumo](./Resumos/03.md) |
-| **04** | Ethernet, MAC Address e ARP        | A definir                                                                                                                          |   ⏳   | [Ver Resumo](./Resumos/04.md) |
+|                               Aula                                | Tema                               | Vídeo Exato / Canal                                                                                        | Status |           Anotações           |
+| :---------------------------------------------------------------: | :--------------------------------- | :--------------------------------------------------------------------------------------------------------- | :----: | :---------------------------: |
+|                              **01**                               | Modelo OSI vs. TCP/IP na Prática   | [Curso de Modelo OSI](https://www.youtube.com/watch?v=3gpo0N04OY0&list=PLAp37wMSBouCyqVtvzLm5JS4dorY-q4uZ) |   ✅   | [Ver Resumo](./Resumos/01.md) |
+|                              **02**                               | Camadas L2, L3, L4 e L7 na Prática |                                                                                                            |
+| [Professora Nattane](https://www.youtube.com/watch?v=rsl_-ndhm3s) | ✅                                 | [Ver Resumo](./Resumos/02.md)                                                                              |
+|                              **03**                               | Encapsulamento e Desencapsulamento | A definir                                                                                                  |   ✅   | [Ver Resumo](./Resumos/03.md) |
+|                              **04**                               | Ethernet, MAC Address e ARP        | A definir                                                                                                  |   ⏳   | [Ver Resumo](./Resumos/04.md) |
 
 ---
 
@@ -248,6 +158,97 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 | :----: | :------------------------------------------ | :------------------ | :----: | :---------------------------: |
 | **44** | Arquitetura de uma Rede Segura              | A definir           |   ❌   | [Ver Resumo](./Resumos/44.md) |
 | **45** | Investigação de Tráfego e Incidente de Rede | A definir           |   ❌   | [Ver Resumo](./Resumos/45.md) |
+
+---
+
+## 🧠 Conhecimentos ao concluir o curso
+
+### Fundamentos de Redes
+
+- [ ] Explicar o modelo OSI.
+- [ ] Explicar o modelo TCP/IP.
+- [ ] Relacionar OSI e TCP/IP.
+- [ ] Diferenciar L2, L3, L4 e L7.
+- [ ] Explicar encapsulamento e desencapsulamento.
+- [ ] Explicar como uma comunicação trafega pela rede.
+- [ ] Entender Ethernet, MAC Address e ARP.
+
+### Endereçamento e Routing
+
+- [ ] Entender IPv4.
+- [ ] Diferenciar IP público e privado.
+- [ ] Entender CIDR.
+- [ ] Calcular sub-redes.
+- [ ] Identificar Network, Host e Broadcast.
+- [ ] Entender Default Gateway.
+- [ ] Entender tabelas de roteamento.
+- [ ] Entender Default Route.
+- [ ] Entender Next Hop.
+- [ ] Ter uma visão geral de IPv6.
+
+### Protocolos
+
+- [ ] Diferenciar TCP e UDP.
+- [ ] Explicar o TCP 3-Way Handshake.
+- [ ] Interpretar SYN, SYN-ACK, ACK, FIN e RST.
+- [ ] Entender portas TCP/UDP.
+- [ ] Entender portas efêmeras.
+- [ ] Entender DNS.
+- [ ] Entender DHCP.
+- [ ] Entender ICMP.
+- [ ] Entender Ping e Traceroute.
+- [ ] Entender HTTP e HTTPS.
+
+### Network Security
+
+- [ ] Entender NAT e PAT.
+- [ ] Entender SNAT e DNAT.
+- [ ] Entender os fundamentos de Firewall.
+- [ ] Diferenciar Stateful e Stateless Firewall.
+- [ ] Entender ACL.
+- [ ] Entender os fundamentos de VPN.
+- [ ] Entender segmentação de rede.
+- [ ] Entender controle de tráfego entre diferentes redes.
+
+### TLS e Segurança Web
+
+- [ ] Explicar o funcionamento básico do TLS.
+- [ ] Entender certificados digitais.
+- [ ] Entender Certificate Authority (CA).
+- [ ] Entender Certificate Chain.
+- [ ] Identificar problemas básicos de TLS.
+- [ ] Entender Reverse Proxy.
+- [ ] Diferenciar Load Balancer L4 e L7.
+- [ ] Entender o papel do Nginx em uma arquitetura web.
+- [ ] Aplicar conceitos básicos de hardening web.
+
+### Análise e Troubleshooting
+
+- [ ] Utilizar Wireshark para analisar tráfego.
+- [ ] Utilizar `tcpdump` para capturar pacotes.
+- [ ] Utilizar `ip` para diagnóstico de rede.
+- [ ] Utilizar `ss` para analisar conexões.
+- [ ] Utilizar `dig` para investigar DNS.
+- [ ] Utilizar `curl` para testar HTTP/HTTPS.
+- [ ] Utilizar `nc` para testes de conectividade.
+- [ ] Utilizar `openssl s_client` para investigar TLS.
+- [ ] Identificar problemas de DNS.
+- [ ] Identificar problemas de routing.
+- [ ] Identificar problemas de firewall.
+- [ ] Identificar problemas de TCP.
+- [ ] Identificar problemas de HTTP/TLS.
+- [ ] Investigar uma comunicação de rede de ponta a ponta.
+
+### Aplicação em Cloud Security
+
+- [ ] Relacionar conceitos de redes tradicionais com ambientes Cloud.
+- [ ] Entender a importância de segmentação de rede em Cloud.
+- [ ] Entender o papel de Security Groups e Network ACLs em ambientes Cloud.
+- [ ] Entender o conceito de subnets públicas e privadas.
+- [ ] Entender o papel de NAT Gateway em arquiteturas Cloud.
+- [ ] Entender o fluxo de tráfego entre componentes de uma arquitetura.
+- [ ] Utilizar fundamentos de redes durante investigações de segurança.
+- [ ] Analisar uma arquitetura de rede pensando em segurança.
 
 ---
 
