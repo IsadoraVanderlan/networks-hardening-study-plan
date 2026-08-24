@@ -25,8 +25,8 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 | Módulo | Tema                       | Aulas | Status |
 | :----: | :------------------------- | :---: | :----: |
 | **1**  | Fundamentos de Redes       | 01–04 |   ✅   |
-| **2**  | Endereçamento IP           | 05–10 |   ⏳   |
-| **3**  | Protocolos de Rede         | 11–18 |   ❌   |
+| **2**  | Endereçamento IP           | 05–10 |   ✅   |
+| **3**  | Protocolos de Rede         | 11–18 |   ⏳   |
 | **4**  | Routing e Network Security | 19–26 |   ❌   |
 | **5**  | TLS e Web Security         | 27–31 |   ❌   |
 | **6**  | Network Analysis           | 32–38 |   ❌   |
@@ -52,14 +52,14 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 > **Objetivo:** compreender endereçamento IPv4, CIDR, sub-redes e conceitos fundamentais utilizados na construção de redes Cloud.
 
-|  Aula  | Tema                              | Vídeo Exato / Canal                                                                                           | Status |           Anotações           |
-| :----: | :-------------------------------- | :------------------------------------------------------------------------------------------------------------ | :----: | :---------------------------: |
-| **05** | IPv4 e Endereçamento IP           | [Professora Nattane](https://www.youtube.com/watch?v=gMzka2WM80k)                                             |   ⏳   | [Ver Resumo](./Resumos/05.md) |
-| **06** | IP Público vs. IP Privado         | [Instrutor Henrique Morais](https://www.youtube.com/watch?v=vKsCp7n2q08)                                      |   ⏳   | [Ver Resumo](./Resumos/06.md) |
-| **07** | CIDR e Notação de Redes           | [Cálculo de Sub-redes - Aula #12](https://www.youtube.com/watch?v=FXGBQOf2lSU&t=188s) — Hardware Redes Brasil |   ❌   | [Ver Resumo](./Resumos/07.md) |
-| **08** | Subnetting e Cálculo de Sub-redes | [Cálculo de Sub-redes - Aula #12](https://www.youtube.com/watch?v=FXGBQOf2lSU&t=188s) — Hardware Redes Brasil |   ❌   | [Ver Resumo](./Resumos/08.md) |
-| **09** | Default Gateway                   | A definir                                                                                                     |   ❌   | [Ver Resumo](./Resumos/09.md) |
-| **10** | IPv6 — Fundamentos                | A definir                                                                                                     |   ❌   | [Ver Resumo](./Resumos/10.md) |
+|  Aula  | Tema                              | Vídeo Exato / Canal                                                      | Status |           Anotações           |
+| :----: | :-------------------------------- | :----------------------------------------------------------------------- | :----: | :---------------------------: |
+| **05** | IPv4 e Endereçamento IP           | [Professora Nattane](https://www.youtube.com/watch?v=gMzka2WM80k)        |   ✅   | [Ver Resumo](./Resumos/05.md) |
+| **06** | IP Público vs. IP Privado         | [Instrutor Henrique Morais](https://www.youtube.com/watch?v=vKsCp7n2q08) |   ✅   | [Ver Resumo](./Resumos/06.md) |
+| **07** | CIDR e Notação de Redes           | [Instrutor Henrique Morais](https://www.youtube.com/watch?v=ul8ps6zAI9Y) |   ✅   | [Ver Resumo](./Resumos/07.md) |
+| **08** | Subnetting e Cálculo de Sub-redes | [Hardware Redes Brasil](https://www.youtube.com/watch?v=h5JsGKLVLtg)     |   ✅   | [Ver Resumo](./Resumos/08.md) |
+| **09** | Default Gateway                   | [Bruno Junqueira](https://www.youtube.com/watch?v=gspook9uWao)           |   ✅   | [Ver Resumo](./Resumos/09.md) |
+| **10** | IPv6 — Fundamentos                | [Hardware Redes Brasil](https://www.youtube.com/watch?v=BpZNuc-xjFg)     |   ✅   | [Ver Resumo](./Resumos/10.md) |
 
 ---
 
@@ -69,7 +69,7 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 |  Aula  | Tema                                       | Vídeo Exato / Canal                                                                                             | Status |           Anotações           |
 | :----: | :----------------------------------------- | :-------------------------------------------------------------------------------------------------------------- | :----: | :---------------------------: |
-| **11** | TCP vs. UDP                                | A definir                                                                                                       |   ❌   | [Ver Resumo](./Resumos/11.md) |
+| **11** | TCP vs. UDP                                | A definir                                                                                                       |   ⏳   | [Ver Resumo](./Resumos/11.md) |
 | **12** | TCP 3-Way Handshake                        | A definir                                                                                                       |   ❌   | [Ver Resumo](./Resumos/12.md) |
 | **13** | TCP Flags — SYN, ACK, FIN, RST             | A definir                                                                                                       |   ❌   | [Ver Resumo](./Resumos/13.md) |
 | **14** | Portas TCP/UDP e Portas Efêmeras           | [Principais Protocolos e Portas - Aula 25](https://www.youtube.com/watch?v=DJ6e6HoJ5kI) — Hardware Redes Brasil |   ❌   | [Ver Resumo](./Resumos/14.md) |
