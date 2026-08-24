@@ -24,8 +24,8 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 | Módulo | Tema                       | Aulas | Status |
 | :----: | :------------------------- | :---: | :----: |
-| **1**  | Fundamentos de Redes       | 01–04 |   ⏳   |
-| **2**  | Endereçamento IP           | 05–10 |   ❌   |
+| **1**  | Fundamentos de Redes       | 01–04 |   ✅   |
+| **2**  | Endereçamento IP           | 05–10 |   ⏳   |
 | **3**  | Protocolos de Rede         | 11–18 |   ❌   |
 | **4**  | Routing e Network Security | 19–26 |   ❌   |
 | **5**  | TLS e Web Security         | 27–31 |   ❌   |
@@ -47,13 +47,12 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 > **Objetivo:** compreender os fundamentos necessários para interpretar uma comunicação de rede e identificar o papel de cada camada.
 
-|                               Aula                                | Tema                               | Vídeo Exato / Canal                                                                                        | Status |           Anotações           |
-| :---------------------------------------------------------------: | :--------------------------------- | :--------------------------------------------------------------------------------------------------------- | :----: | :---------------------------: |
-|                              **01**                               | Modelo OSI vs. TCP/IP na Prática   | [Curso de Modelo OSI](https://www.youtube.com/watch?v=3gpo0N04OY0&list=PLAp37wMSBouCyqVtvzLm5JS4dorY-q4uZ) |   ✅   | [Ver Resumo](./Resumos/01.md) |
-|                              **02**                               | Camadas L2, L3, L4 e L7 na Prática |                                                                                                            |
-| [Professora Nattane](https://www.youtube.com/watch?v=rsl_-ndhm3s) | ✅                                 | [Ver Resumo](./Resumos/02.md)                                                                              |
-|                              **03**                               | Encapsulamento e Desencapsulamento | A definir                                                                                                  |   ✅   | [Ver Resumo](./Resumos/03.md) |
-|                              **04**                               | Ethernet, MAC Address e ARP        | A definir                                                                                                  |   ⏳   | [Ver Resumo](./Resumos/04.md) |
+|  Aula  | Tema                               | Vídeo Exato / Canal                                                                                                                | Status |           Anotações           |
+| :----: | :--------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- | :----: | :---------------------------: |
+| **01** | Modelo OSI vs. TCP/IP na Prática   | [Curso de Modelo OSI](https://www.youtube.com/watch?v=3gpo0N04OY0&list=PLAp37wMSBouCyqVtvzLm5JS4dorY-q4uZ) — Hardware Redes Brasil |   ✅   | [Ver Resumo](./Resumos/01.md) |
+| **02** | Camadas L2, L3, L4 e L7            | [Professora Nattane](https://www.youtube.com/watch?v=e7pzTuqurYo)                                                                  |   ✅   | [Ver Resumo](./Resumos/02.md) |
+| **03** | Encapsulamento e Desencapsulamento | [Professora Nattane](https://www.youtube.com/watch?v=rsl_-ndhm3s)                                                                  |   ✅   | [Ver Resumo](./Resumos/03.md) |
+| **04** | Ethernet, MAC Address e ARP        | [Ciro Jr](https://www.youtube.com/watch?v=rP6Jj7EkPCU)                                                                             |   ✅   | [Ver Resumo](./Resumos/04.md) |
 
 ---
 
@@ -63,7 +62,7 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 |  Aula  | Tema                              | Vídeo Exato / Canal                                                                                           | Status |           Anotações           |
 | :----: | :-------------------------------- | :------------------------------------------------------------------------------------------------------------ | :----: | :---------------------------: |
-| **05** | IPv4 e Endereçamento IP           | [Classes de Endereçamento IP - Aula 02](https://www.youtube.com/watch?v=kddmXxCgca8) — Hardware Redes Brasil  |   ❌   | [Ver Resumo](./Resumos/05.md) |
+| **05** | IPv4 e Endereçamento IP           | [Classes de Endereçamento IP - Aula 02](https://www.youtube.com/watch?v=kddmXxCgca8) — Hardware Redes Brasil  |   ⏳   | [Ver Resumo](./Resumos/05.md) |
 | **06** | IP Público vs. IP Privado         | A definir                                                                                                     |   ❌   | [Ver Resumo](./Resumos/06.md) |
 | **07** | CIDR e Notação de Redes           | [Cálculo de Sub-redes - Aula #12](https://www.youtube.com/watch?v=FXGBQOf2lSU&t=188s) — Hardware Redes Brasil |   ❌   | [Ver Resumo](./Resumos/07.md) |
 | **08** | Subnetting e Cálculo de Sub-redes | [Cálculo de Sub-redes - Aula #12](https://www.youtube.com/watch?v=FXGBQOf2lSU&t=188s) — Hardware Redes Brasil |   ❌   | [Ver Resumo](./Resumos/08.md) |
