@@ -67,16 +67,16 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 > **Objetivo:** compreender os principais protocolos utilizados na comunicação entre sistemas e aplicações.
 
-|  Aula  | Tema                                       | Vídeo Exato / Canal                                                                                             | Status |           Anotações           |
-| :----: | :----------------------------------------- | :-------------------------------------------------------------------------------------------------------------- | :----: | :---------------------------: |
-| **11** | TCP vs. UDP                                | A definir                                                                                                       |   ⏳   | [Ver Resumo](./Resumos/11.md) |
-| **12** | TCP 3-Way Handshake                        | A definir                                                                                                       |   ❌   | [Ver Resumo](./Resumos/12.md) |
-| **13** | TCP Flags — SYN, ACK, FIN, RST             | A definir                                                                                                       |   ❌   | [Ver Resumo](./Resumos/13.md) |
-| **14** | Portas TCP/UDP e Portas Efêmeras           | [Principais Protocolos e Portas - Aula 25](https://www.youtube.com/watch?v=DJ6e6HoJ5kI) — Hardware Redes Brasil |   ❌   | [Ver Resumo](./Resumos/14.md) |
-| **15** | DNS — Domain Name System                   | A definir                                                                                                       |   ❌   | [Ver Resumo](./Resumos/15.md) |
-| **16** | DHCP — Dynamic Host Configuration Protocol | A definir                                                                                                       |   ❌   | [Ver Resumo](./Resumos/16.md) |
-| **17** | ICMP, Ping e Traceroute                    | A definir                                                                                                       |   ❌   | [Ver Resumo](./Resumos/17.md) |
-| **18** | HTTP e HTTPS                               | A definir                                                                                                       |   ❌   | [Ver Resumo](./Resumos/18.md) |
+|  Aula  | Tema                                       | Vídeo Exato / Canal                                                                     | Status |           Anotações           |
+| :----: | :----------------------------------------- | :-------------------------------------------------------------------------------------- | :----: | :---------------------------: |
+| **11** | TCP vs. UDP                                | [Bóson Treinamentos](https://www.youtube.com/watch?v=yvhh2gskZ84)                       |   ✅   | [Ver Resumo](./Resumos/11.md) |
+| **12** | TCP 3-Way Handshake                        | [Bóson Treinamentos](https://www.youtube.com/watch?v=1X-b7L0BzOk)                       |   ✅   | [Ver Resumo](./Resumos/12.md) |
+| **13** | TCP Flags — SYN, ACK, FIN, RST             | [Canal TI](https://www.youtube.com/watch?v=uPnQL2AcPeM)                                 |   ✅   | [Ver Resumo](./Resumos/13.md) |
+| **14** | Portas TCP/UDP e Portas Efêmeras           | [Principais Protocolos e Portas - Aula 25](https://www.youtube.com/watch?v=DJ6e6HoJ5kI) |   ✅   | [Ver Resumo](./Resumos/14.md) |
+| **15** | DNS — Domain Name System                   | [Bóson Treinamentos](https://www.youtube.com/watch?v=yvhh2gskZ84)                       |   ❌   | [Ver Resumo](./Resumos/15.md) |
+| **16** | DHCP — Dynamic Host Configuration Protocol | [Bóson Treinamentos](https://www.youtube.com/watch?v=yvhh2gskZ84)                       |   ❌   | [Ver Resumo](./Resumos/16.md) |
+| **17** | ICMP, Ping e Traceroute                    | [Bóson Treinamentos](https://www.youtube.com/watch?v=yvhh2gskZ84)                       |   ❌   | [Ver Resumo](./Resumos/17.md) |
+| **18** | HTTP e HTTPS                               | [Bóson Treinamentos](https://www.youtube.com/watch?v=yvhh2gskZ84)                       |   ❌   | [Ver Resumo](./Resumos/18.md) |
 
 ---
 
