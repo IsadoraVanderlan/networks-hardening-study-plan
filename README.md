@@ -67,16 +67,16 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 > **Objetivo:** compreender os principais protocolos utilizados na comunicação entre sistemas e aplicações.
 
-|  Aula  | Tema                                       | Vídeo Exato / Canal                                                                                                                  | Status |           Anotações           |
-| :----: | :----------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :----: | :---------------------------: |
-| **11** | TCP vs. UDP                                | [Bóson Treinamentos](https://www.youtube.com/watch?v=yvhh2gskZ84)                                                                    |   ✅   | [Ver Resumo](./Resumos/11.md) |
-| **12** | TCP 3-Way Handshake                        | [Bóson Treinamentos](https://www.youtube.com/watch?v=1X-b7L0BzOk)                                                                    |   ✅   | [Ver Resumo](./Resumos/12.md) |
-| **13** | TCP Flags — SYN, ACK, FIN, RST             | [Canal TI](https://www.youtube.com/watch?v=uPnQL2AcPeM)                                                                              |   ✅   | [Ver Resumo](./Resumos/13.md) |
-| **14** | Portas TCP/UDP e Portas Efêmeras           | [Hardware Redes Brasil](https://www.youtube.com/watch?v=DJ6e6HoJ5kI) [Simplificando TI](https://www.youtube.com/watch?v=SMU92puJxdU) |   ✅   | [Ver Resumo](./Resumos/14.md) |
-| **15** | DNS — Domain Name System                   | [Bóson Treinamentos]()                                                                                                               |   ❌   | [Ver Resumo](./Resumos/15.md) |
-| **16** | DHCP — Dynamic Host Configuration Protocol | [Bóson Treinamentos]()                                                                                                               |   ❌   | [Ver Resumo](./Resumos/16.md) |
-| **17** | ICMP, Ping e Traceroute                    | [Bóson Treinamentos]()                                                                                                               |   ❌   | [Ver Resumo](./Resumos/17.md) |
-| **18** | HTTP e HTTPS                               | [Bóson Treinamentos]()                                                                                                               |   ❌   | [Ver Resumo](./Resumos/18.md) |
+|  Aula  | Tema                                       | Vídeo Exato / Canal                                                                                                                      | Status |           Anotações           |
+| :----: | :----------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- | :----: | :---------------------------: |
+| **11** | TCP vs. UDP                                | [Bóson Treinamentos](https://www.youtube.com/watch?v=yvhh2gskZ84)                                                                        |   ✅   | [Ver Resumo](./Resumos/11.md) |
+| **12** | TCP 3-Way Handshake                        | [Bóson Treinamentos](https://www.youtube.com/watch?v=1X-b7L0BzOk)                                                                        |   ✅   | [Ver Resumo](./Resumos/12.md) |
+| **13** | TCP Flags — SYN, ACK, FIN, RST             | [Canal TI](https://www.youtube.com/watch?v=uPnQL2AcPeM)                                                                                  |   ✅   | [Ver Resumo](./Resumos/13.md) |
+| **14** | Portas TCP/UDP e Portas Efêmeras           | [Hardware Redes Brasil](https://www.youtube.com/watch?v=DJ6e6HoJ5kI) [Simplificando TI](https://www.youtube.com/watch?v=SMU92puJxdU)     |   ✅   | [Ver Resumo](./Resumos/14.md) |
+| **15** | DNS — Domain Name System                   | [Dicionário de Informática](https://www.youtube.com/watch?v=cN4A-nL2Nss)                                                                 |   ✅   | [Ver Resumo](./Resumos/15.md) |
+| **16** | DHCP — Dynamic Host Configuration Protocol | [Dicionário de Informática](https://www.youtube.com/watch?v=D2tlmxb8lW0)                                                                 |   ✅   | [Ver Resumo](./Resumos/16.md) |
+| **17** | ICMP, Ping e Traceroute                    | [Dicionário de Informática](https://www.youtube.com/watch?v=4CnFXK5hQog) [WeBBer Tutoriais](https://www.youtube.com/watch?v=WoyenpFh7Ok) |   ✅   | [Ver Resumo](./Resumos/17.md) |
+| **18** | HTTP e HTTPS                               | [Dicionário de Informática](https://www.youtube.com/watch?v=G9VlDTshk-k)                                                                 |   ✅   | [Ver Resumo](./Resumos/18.md) |
 
 ---
 
@@ -86,7 +86,7 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 |  Aula  | Tema                                 | Vídeo Exato / Canal | Status |           Anotações           |
 | :----: | :----------------------------------- | :------------------ | :----: | :---------------------------: |
-| **19** | Routing — Fundamentos de Roteamento  | A definir           |   ❌   | [Ver Resumo](./Resumos/19.md) |
+| **19** | Routing — Fundamentos de Roteamento  | A definir           |   ⏳   | [Ver Resumo](./Resumos/19.md) |
 | **20** | Routing Table — Tabela de Roteamento | A definir           |   ❌   | [Ver Resumo](./Resumos/20.md) |
 | **21** | Default Route e Next Hop             | A definir           |   ❌   | [Ver Resumo](./Resumos/21.md) |
 | **22** | NAT, PAT, SNAT e DNAT                | A definir           |   ❌   | [Ver Resumo](./Resumos/22.md) |
