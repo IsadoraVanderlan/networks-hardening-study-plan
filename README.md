@@ -26,8 +26,8 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 | :----: | :------------------------- | :---: | :----: |
 | **1**  | Fundamentos de Redes       | 01–04 |   ✅   |
 | **2**  | Endereçamento IP           | 05–10 |   ✅   |
-| **3**  | Protocolos de Rede         | 11–18 |   ⏳   |
-| **4**  | Routing e Network Security | 19–26 |   ❌   |
+| **3**  | Protocolos de Rede         | 11–18 |   ✅   |
+| **4**  | Routing e Network Security | 19–26 |   ⏳   |
 | **5**  | TLS e Web Security         | 27–31 |   ❌   |
 | **6**  | Network Analysis           | 32–38 |   ❌   |
 | **7**  | Troubleshooting            | 39–43 |   ❌   |
