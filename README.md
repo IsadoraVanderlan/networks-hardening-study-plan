@@ -84,16 +84,16 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 > **Objetivo:** compreender como o tráfego é encaminhado e como mecanismos de segurança controlam esse tráfego.
 
-|  Aula  | Tema                                 | Vídeo Exato / Canal | Status |           Anotações           |
-| :----: | :----------------------------------- | :------------------ | :----: | :---------------------------: |
-| **19** | Routing — Fundamentos de Roteamento  | A definir           |   ⏳   | [Ver Resumo](./Resumos/19.md) |
-| **20** | Routing Table — Tabela de Roteamento | A definir           |   ❌   | [Ver Resumo](./Resumos/20.md) |
-| **21** | Default Route e Next Hop             | A definir           |   ❌   | [Ver Resumo](./Resumos/21.md) |
-| **22** | NAT, PAT, SNAT e DNAT                | A definir           |   ❌   | [Ver Resumo](./Resumos/22.md) |
-| **23** | Firewall — Fundamentos               | A definir           |   ❌   | [Ver Resumo](./Resumos/23.md) |
-| **24** | Stateful vs. Stateless Firewall      | A definir           |   ❌   | [Ver Resumo](./Resumos/24.md) |
-| **25** | ACL — Access Control List            | A definir           |   ❌   | [Ver Resumo](./Resumos/25.md) |
-| **26** | VPN — Fundamentos                    | A definir           |   ❌   | [Ver Resumo](./Resumos/26.md) |
+|  Aula  | Tema                                 | Vídeo Exato / Canal | Status |                             Anotações                             |
+| :----: | :----------------------------------- | :------------------ | :----: | :---------------------------------------------------------------: |
+| **19** | Routing — Fundamentos de Roteamento  | A definir           |   ✅   | [NICbrvideos](https://www.youtube.com/watch?v=y9Vx5l-th9Y&t=182s) |
+| **20** | Routing Table — Tabela de Roteamento | A definir           |   ⏳   |                   [Ver Resumo](./Resumos/20.md)                   |
+| **21** | Default Route e Next Hop             | A definir           |   ❌   |                   [Ver Resumo](./Resumos/21.md)                   |
+| **22** | NAT, PAT, SNAT e DNAT                | A definir           |   ❌   |                   [Ver Resumo](./Resumos/22.md)                   |
+| **23** | Firewall — Fundamentos               | A definir           |   ❌   |                   [Ver Resumo](./Resumos/23.md)                   |
+| **24** | Stateful vs. Stateless Firewall      | A definir           |   ❌   |                   [Ver Resumo](./Resumos/24.md)                   |
+| **25** | ACL — Access Control List            | A definir           |   ❌   |                   [Ver Resumo](./Resumos/25.md)                   |
+| **26** | VPN — Fundamentos                    | A definir           |   ❌   |                   [Ver Resumo](./Resumos/26.md)                   |
 
 ---
 
@@ -320,6 +320,12 @@ O HTTP respondeu?
         ↓
 A aplicação recebeu a requisição?
 ```
+
+---
+
+# Material de Apoio
+
+! Willian Hirata [Cybersecurity do Zero - GitHub](https://willianhirata.github.io/cybersecurity-do-zero/redes/)
 
 ---
 
