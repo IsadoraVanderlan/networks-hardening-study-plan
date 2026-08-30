@@ -27,8 +27,8 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 | **1**  | Fundamentos de Redes       | 01–04 |   ✅   |
 | **2**  | Endereçamento IP           | 05–10 |   ✅   |
 | **3**  | Protocolos de Rede         | 11–18 |   ✅   |
-| **4**  | Routing e Network Security | 19–26 |   ⏳   |
-| **5**  | TLS e Web Security         | 27–31 |   ❌   |
+| **4**  | Routing e Network Security | 19–26 |   ✅   |
+| **5**  | TLS e Web Security         | 27–31 |   ⏳   |
 | **6**  | Network Analysis           | 32–38 |   ❌   |
 | **7**  | Troubleshooting            | 39–43 |   ❌   |
 | **8**  | Projeto Final              | 44–45 |   ❌   |
@@ -84,16 +84,16 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 > **Objetivo:** compreender como o tráfego é encaminhado e como mecanismos de segurança controlam esse tráfego.
 
-|  Aula  | Tema                                 | Vídeo Exato / Canal                                                     | Status |           Anotações           |
-| :----: | :----------------------------------- | :---------------------------------------------------------------------- | :----: | :---------------------------: |
-| **19** | Routing — Fundamentos de Roteamento  | [NICbrvideos](https://www.youtube.com/watch?v=y9Vx5l-th9Y&t=182s)       |   ✅   | [Ver Resumo](./Resumos/19.md) |
-| **20** | Routing Table — Tabela de Roteamento | [RotaDefaultVideos](https://www.youtube.com/watch?v=4Qxar6de5N4)        |   ✅   | [Ver Resumo](./Resumos/20.md) |
-| **21** | Default Route e Next Hop             |                                                                         |   ✅   | [Ver Resumo](./Resumos/21.md) |
-| **22** | NAT, PAT, SNAT e DNAT                | [Hackone CCIE Lucas Palma](https://www.youtube.com/watch?v=7M_eGJEzCvc) |   ❌   | [Ver Resumo](./Resumos/22.md) |
-| **23** | Firewall — Fundamentos               | A definir                                                               |   ❌   | [Ver Resumo](./Resumos/23.md) |
-| **24** | Stateful vs. Stateless Firewall      | A definir                                                               |   ❌   | [Ver Resumo](./Resumos/24.md) |
-| **25** | ACL — Access Control List            | A definir                                                               |   ❌   | [Ver Resumo](./Resumos/25.md) |
-| **26** | VPN — Fundamentos                    | A definir                                                               |   ❌   | [Ver Resumo](./Resumos/26.md) |
+|  Aula  | Tema                                 | Vídeo Exato / Canal                                                      | Status |           Anotações           |
+| :----: | :----------------------------------- | :----------------------------------------------------------------------- | :----: | :---------------------------: |
+| **19** | Routing — Fundamentos de Roteamento  | [NICbrvideos](https://www.youtube.com/watch?v=y9Vx5l-th9Y&t=182s)        |   ✅   | [Ver Resumo](./Resumos/19.md) |
+| **20** | Routing Table — Tabela de Roteamento | [RotaDefaultVideos](https://www.youtube.com/watch?v=4Qxar6de5N4)         |   ✅   | [Ver Resumo](./Resumos/20.md) |
+| **21** | Default Route e Next Hop             | -                                                                        |   ✅   | [Ver Resumo](./Resumos/21.md) |
+| **22** | NAT, PAT, SNAT e DNAT                | [Hackone CCIE Lucas Palma](https://www.youtube.com/watch?v=7M_eGJEzCvc)  |   ✅   | [Ver Resumo](./Resumos/22.md) |
+| **23** | Firewall — Fundamentos               | [Dicionário de Informática](https://www.youtube.com/watch?v=PUf4rVBi1-g) |   ✅   | [Ver Resumo](./Resumos/23.md) |
+| **24** | Stateful vs. Stateless Firewall      | -                                                                        |   ✅   | [Ver Resumo](./Resumos/24.md) |
+| **25** | ACL — Access Control List            | [Blue Team Academy](https://www.youtube.com/watch?v=7h4ChujaWsQ)         |   ✅   | [Ver Resumo](./Resumos/25.md) |
+| **26** | VPN — Fundamentos                    | [Dicionário de Informática](https://www.youtube.com/watch?v=02rlHjmr2gg) |   ✅   | [Ver Resumo](./Resumos/26.md) |
 
 ---
 
@@ -103,7 +103,7 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 |  Aula  | Tema                                          | Vídeo Exato / Canal                                                                                    | Status |           Anotações           |
 | :----: | :-------------------------------------------- | :----------------------------------------------------------------------------------------------------- | :----: | :---------------------------: |
-| **27** | TLS — Transport Layer Security                | A definir                                                                                              |   ❌   | [Ver Resumo](./Resumos/27.md) |
+| **27** | TLS — Transport Layer Security                | A definir                                                                                              |   ⏳   | [Ver Resumo](./Resumos/27.md) |
 | **28** | Certificados Digitais, CA e Certificate Chain | A definir                                                                                              |   ❌   | [Ver Resumo](./Resumos/28.md) |
 | **29** | Reverse Proxy                                 | [O que é Nginx? Proxy Reverso](https://www.youtube.com/watch?v=Kef9GF7tllo) — Wesley Milan             |   ❌   | [Ver Resumo](./Resumos/29.md) |
 | **30** | Load Balancer — L4 vs. L7                     | A definir                                                                                              |   ❌   | [Ver Resumo](./Resumos/30.md) |
