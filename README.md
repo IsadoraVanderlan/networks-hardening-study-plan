@@ -101,13 +101,13 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 > **Objetivo:** compreender como aplicações web são publicadas, protegidas e acessadas através de HTTPS, Reverse Proxy e Load Balancers.
 
-|  Aula  | Tema                                          | Vídeo Exato / Canal                                                             | Status |           Anotações           |
-| :----: | :-------------------------------------------- | :------------------------------------------------------------------------------ | :----: | :---------------------------: |
-| **27** | TLS — Transport Layer Security                | [Gustavo Chen](https://www.youtube.com/watch?v=GhxTtimCtHs)                     |   ✅   | [Ver Resumo](./Resumos/27.md) |
-| **28** | Certificados Digitais, CA e Certificate Chain | [Dicionário de Informática](https://www.youtube.com/watch?v=Tcsd9vX1_YE)        |   ✅   | [Ver Resumo](./Resumos/28.md) |
-| **29** | Reverse Proxy                                 | [Wesley Milan](https://www.youtube.com/watch?v=E51dIa0ZcGs&t=1s) — Wesley Milan |   ✅   | [Ver Resumo](./Resumos/29.md) |
-| **30** | Load Balancer — L4 vs. L7                     | [Bits Conceituais](https://www.youtube.com/watch?v=e3ClrgXdM6U)                 |   ✅   | [Ver Resumo](./Resumos/30.md) |
-| **31** | Nginx — Reverse Proxy, HTTPS e Hardening      | [Wesley Milan](https://www.youtube.com/watch?v=E51dIa0ZcGs&t=1s)                |   ✅   | [Ver Resumo](./Resumos/31.md) |
+|  Aula  | Tema                                          | Vídeo Exato / Canal                                                      | Status |           Anotações           |
+| :----: | :-------------------------------------------- | :----------------------------------------------------------------------- | :----: | :---------------------------: |
+| **27** | TLS — Transport Layer Security                | [Gustavo Chen](https://www.youtube.com/watch?v=GhxTtimCtHs)              |   ✅   | [Ver Resumo](./Resumos/27.md) |
+| **28** | Certificados Digitais, CA e Certificate Chain | [Dicionário de Informática](https://www.youtube.com/watch?v=Tcsd9vX1_YE) |   ✅   | [Ver Resumo](./Resumos/28.md) |
+| **29** | Reverse Proxy                                 | [Wesley Milan](https://www.youtube.com/watch?v=E51dIa0ZcGs&t=1s)         |   ✅   | [Ver Resumo](./Resumos/29.md) |
+| **30** | Load Balancer — L4 vs. L7                     | [Bits Conceituais](https://www.youtube.com/watch?v=e3ClrgXdM6U)          |   ✅   | [Ver Resumo](./Resumos/30.md) |
+| **31** | Nginx — Reverse Proxy, HTTPS e Hardening      | [Wesley Milan](https://www.youtube.com/watch?v=E51dIa0ZcGs&t=1s)         |   ✅   | [Ver Resumo](./Resumos/31.md) |
 
 ---
 
