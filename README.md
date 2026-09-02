@@ -115,15 +115,15 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 > **Objetivo:** aprender a observar o tráfego real e utilizar ferramentas de linha de comando para investigar problemas de rede.
 
-|  Aula  | Tema                                             | Vídeo Exato / Canal                                                                              | Status |           Anotações           |
-| :----: | :----------------------------------------------- | :----------------------------------------------------------------------------------------------- | :----: | :---------------------------: |
-| **32** | Wireshark — Captura e Inspeção de Pacotes        | [Como Utilizar o Wireshark](https://www.youtube.com/watch?v=TYk6ejP7dmI) — Lucas Teixeira        |   ⏳   | [Ver Resumo](./Resumos/32.md) |
-| **33** | tcpdump — Análise de Tráfego em Linha de Comando | [Análise de Tráfego com tcpdump](https://www.youtube.com/watch?v=4ccAK-t7Nes&t=9s) — Turma de TI |   ❌   | [Ver Resumo](./Resumos/33.md) |
-| **34** | `ip` e `ss` — Diagnóstico de Rede no Linux       | A definir                                                                                        |   ❌   | [Ver Resumo](./Resumos/34.md) |
-| **35** | `dig` — Diagnóstico e Investigação de DNS        | A definir                                                                                        |   ❌   | [Ver Resumo](./Resumos/35.md) |
-| **36** | `curl` — Análise de HTTP/HTTPS                   | A definir                                                                                        |   ❌   | [Ver Resumo](./Resumos/36.md) |
-| **37** | `nc` / Netcat — Teste de Conectividade e Portas  | A definir                                                                                        |   ❌   | [Ver Resumo](./Resumos/37.md) |
-| **38** | `openssl s_client` — Análise de TLS              | A definir                                                                                        |   ❌   | [Ver Resumo](./Resumos/38.md) |
+|  Aula  | Tema                                             | Vídeo Exato / Canal                                                  | Status |           Anotações           |
+| :----: | :----------------------------------------------- | :------------------------------------------------------------------- | :----: | :---------------------------: |
+| **32** | Wireshark — Captura e Inspeção de Pacotes        | [Lucas Teixeira](https://www.youtube.com/watch?v=TYk6ejP7dmI)        |   ✅   | [Ver Resumo](./Resumos/32.md) |
+| **33** | tcpdump — Análise de Tráfego em Linha de Comando | [Coffops](https://www.youtube.com/watch?v=gAMyi-ZXRKU) — Turma de TI |   ✅   | [Ver Resumo](./Resumos/33.md) |
+| **34** | `ip` e `ss` — Diagnóstico de Rede no Linux       | -                                                                    |   ✅   | [Ver Resumo](./Resumos/34.md) |
+| **35** | `dig` — Diagnóstico e Investigação de DNS        | A definir                                                            |   ⏳   | [Ver Resumo](./Resumos/35.md) |
+| **36** | `curl` — Análise de HTTP/HTTPS                   | A definir                                                            |   ❌   | [Ver Resumo](./Resumos/36.md) |
+| **37** | `nc` / Netcat — Teste de Conectividade e Portas  | A definir                                                            |   ❌   | [Ver Resumo](./Resumos/37.md) |
+| **38** | `openssl s_client` — Análise de TLS              | A definir                                                            |   ❌   | [Ver Resumo](./Resumos/38.md) |
 
 ---
 
