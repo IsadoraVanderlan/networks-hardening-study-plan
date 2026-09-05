@@ -29,8 +29,8 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 | **3**  | Protocolos de Rede         | 11–18 |   ✅   |
 | **4**  | Routing e Network Security | 19–26 |   ✅   |
 | **5**  | TLS e Web Security         | 27–31 |   ✅   |
-| **6**  | Network Analysis           | 32–38 |   ⏳   |
-| **7**  | Troubleshooting            | 39–43 |   ❌   |
+| **6**  | Network Analysis           | 32–38 |   ✅   |
+| **7**  | Troubleshooting            | 39–43 |   ⏳   |
 | **8**  | Projeto Final              | 44–45 |   ❌   |
 
 ---
@@ -120,10 +120,10 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 | **32** | Wireshark — Captura e Inspeção de Pacotes        | [Lucas Teixeira](https://www.youtube.com/watch?v=TYk6ejP7dmI) |   ✅   | [Ver Resumo](./Resumos/32.md) |
 | **33** | tcpdump — Análise de Tráfego em Linha de Comando | [Coffops](https://www.youtube.com/watch?v=gAMyi-ZXRKU)        |   ✅   | [Ver Resumo](./Resumos/33.md) |
 | **34** | `ip` e `ss` — Diagnóstico de Rede no Linux       | -                                                             |   ✅   | [Ver Resumo](./Resumos/34.md) |
-| **35** | `dig` — Diagnóstico e Investigação de DNS        | A definir                                                     |   ⏳   | [Ver Resumo](./Resumos/35.md) |
-| **36** | `curl` — Análise de HTTP/HTTPS                   | A definir                                                     |   ❌   | [Ver Resumo](./Resumos/36.md) |
-| **37** | `nc` / Netcat — Teste de Conectividade e Portas  | A definir                                                     |   ❌   | [Ver Resumo](./Resumos/37.md) |
-| **38** | `openssl s_client` — Análise de TLS              | A definir                                                     |   ❌   | [Ver Resumo](./Resumos/38.md) |
+| **35** | `dig` — Diagnóstico e Investigação de DNS        | A definir                                                     |   ✅   | [Ver Resumo](./Resumos/35.md) |
+| **36** | `curl` — Análise de HTTP/HTTPS                   | A definir                                                     |   ✅   | [Ver Resumo](./Resumos/36.md) |
+| **37** | `nc` / Netcat — Teste de Conectividade e Portas  | A definir                                                     |   ✅   | [Ver Resumo](./Resumos/37.md) |
+| **38** | `openssl s_client` — Análise de TLS              | A definir                                                     |   ✅   | [Ver Resumo](./Resumos/38.md) |
 
 ---
 
@@ -133,7 +133,7 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 |  Aula  | Tema                     | Vídeo Exato / Canal | Status |           Anotações           |
 | :----: | :----------------------- | :------------------ | :----: | :---------------------------: |
-| **39** | DNS Troubleshooting      | A definir           |   ❌   | [Ver Resumo](./Resumos/39.md) |
+| **39** | DNS Troubleshooting      | A definir           |   ⏳   | [Ver Resumo](./Resumos/39.md) |
 | **40** | Routing Troubleshooting  | A definir           |   ❌   | [Ver Resumo](./Resumos/40.md) |
 | **41** | Firewall Troubleshooting | A definir           |   ❌   | [Ver Resumo](./Resumos/41.md) |
 | **42** | TCP Troubleshooting      | A definir           |   ❌   | [Ver Resumo](./Resumos/42.md) |
