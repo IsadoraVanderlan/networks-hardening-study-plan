@@ -134,8 +134,8 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 |  Aula  | Tema                     | Vídeo Exato / Canal | Status |           Anotações           |
 | :----: | :----------------------- | :------------------ | :----: | :---------------------------: |
 | **39** | DNS Troubleshooting      | A definir           |   ✅   | [Ver Resumo](./Resumos/39.md) |
-| **40** | Routing Troubleshooting  | A definir           |   ⏳   | [Ver Resumo](./Resumos/40.md) |
-| **41** | Firewall Troubleshooting | A definir           |   ❌   | [Ver Resumo](./Resumos/41.md) |
+| **40** | Routing Troubleshooting  | A definir           |   ✅   | [Ver Resumo](./Resumos/40.md) |
+| **41** | Firewall Troubleshooting | A definir           |   ⏳   | [Ver Resumo](./Resumos/41.md) |
 | **42** | TCP Troubleshooting      | A definir           |   ❌   | [Ver Resumo](./Resumos/42.md) |
 | **43** | HTTP/TLS Troubleshooting | A definir           |   ❌   | [Ver Resumo](./Resumos/43.md) |
 
