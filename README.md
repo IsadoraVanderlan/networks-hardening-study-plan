@@ -131,13 +131,13 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 > **Objetivo:** desenvolver uma metodologia estruturada para investigar problemas de conectividade e comunicação.
 
-|  Aula  | Tema                     | Vídeo Exato / Canal | Status |           Anotações           |
-| :----: | :----------------------- | :------------------ | :----: | :---------------------------: |
-| **39** | DNS Troubleshooting      | A definir           |   ✅   | [Ver Resumo](./Resumos/39.md) |
-| **40** | Routing Troubleshooting  | A definir           |   ✅   | [Ver Resumo](./Resumos/40.md) |
-| **41** | Firewall Troubleshooting | A definir           |   ⏳   | [Ver Resumo](./Resumos/41.md) |
-| **42** | TCP Troubleshooting      | A definir           |   ❌   | [Ver Resumo](./Resumos/42.md) |
-| **43** | HTTP/TLS Troubleshooting | A definir           |   ❌   | [Ver Resumo](./Resumos/43.md) |
+|  Aula  | Tema                      | Status |           Anotações           |
+| :----: | :-----------------------  | :----: | :---------------------------: |
+| **39** | DNS Troubleshooting       |   ✅   | [Ver Resumo](./Resumos/39.md) |
+| **40** | Routing Troubleshooting   |   ✅   | [Ver Resumo](./Resumos/40.md) |
+| **41** | Firewall Troubleshooting  |   ✅   | [Ver Resumo](./Resumos/41.md) |
+| **42** | TCP Troubleshooting       |   ⏳   | [Ver Resumo](./Resumos/42.md) |
+| **43** | HTTP/TLS Troubleshooting  |   ❌   | [Ver Resumo](./Resumos/43.md) |
 
 ---
 
@@ -145,10 +145,10 @@ Ao concluir o curso, devo ser capaz de compreender como uma comunicação de red
 
 > **Objetivo:** aplicar os conhecimentos adquiridos durante o curso em um cenário próximo do que pode ser encontrado em um ambiente real.
 
-|  Aula  | Tema                                        | Vídeo Exato / Canal | Status |           Anotações           |
-| :----: | :------------------------------------------ | :------------------ | :----: | :---------------------------: |
-| **44** | Arquitetura de uma Rede Segura              | A definir           |   ❌   | [Ver Resumo](./Resumos/44.md) |
-| **45** | Investigação de Tráfego e Incidente de Rede | A definir           |   ❌   | [Ver Resumo](./Resumos/45.md) |
+|  Aula  | Tema                                        | Status |           Anotações           |
+| :----: | :------------------------------------------ | :----: | :---------------------------: |
+| **44** | Arquitetura de uma Rede Segura              |   ❌   | [Ver Resumo](./Resumos/44.md) |
+| **45** | Investigação de Tráfego e Incidente de Rede |   ❌   | [Ver Resumo](./Resumos/45.md) |
 
 ---
 
